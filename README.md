@@ -1,3 +1,3 @@
 # javascript-array-object
 
-  ###Array Method 
+  ### Array Method 
